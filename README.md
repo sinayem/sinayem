@@ -4,10 +4,7 @@
 * I'm currently learning web development.
 * I love problem solving.
 * How to reach me **sinayem88@gmail.com**
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sinayem.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sinayem.k" height="30" width="40" /></a>
