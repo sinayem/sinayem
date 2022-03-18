@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shajibul Islam Nayem</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinayem&label=Profile%20views&color=0e75b6&style=flat" alt="sinayem" /> </p>
-- I'm currently learning web development.
-- I love problem solving.
-- How to reach me **sinayem88@gmail.com**
+* I'm currently learning web development.
+* I love problem solving.
+* How to reach me **sinayem88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
